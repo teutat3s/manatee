@@ -119,7 +119,7 @@ install these with:
 PostgreSQL is built from source, which we pull down as a submodule and checkout
 at a certain commit to define the version.  Once built in a temporary location,
 we move it to a location on the filesystem that our Manatee configs expect.
-This is done by the `./tool/mkdevsitters` script (detailed in "Using
+This is done by the `./tools/mkdevsitters` script (detailed in "Using
 `mkdevsitters`", but is described below in case you should need to install
 PostgreSQL directly.)
 
